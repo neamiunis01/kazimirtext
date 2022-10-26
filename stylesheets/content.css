@@ -1,0 +1,725 @@
+  .name {
+  font-family: 'Kazimir Text Medium';
+  font-style: normal;
+  font-size: 130px;
+  position: absolute;
+  top: 324px;
+  right: 328px;
+  color: white;
+}
+.authors {
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  font-size: 20px;
+  position: absolute;
+  top: 453px;
+  right: 530px;
+  color: white;
+}
+.block2text {
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  font-size: 32px;
+  position: absolute;
+  top: 215px;
+  right: 218px;
+  color: white;
+  line-height: 43px;
+}
+.block3head {
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  font-size: 50px;
+  position: absolute;
+  top: 229px;
+  left: 352px;
+  color: white;
+  line-height: 52px;
+}
+.styles {
+  font-size: 32px;
+  top: 349px;
+  left: 138px;
+  color: white;
+  position: relative;
+}
+.hairline{
+  font-family: 'Kazimir Text Hairline';
+  font-style: normal;
+  top: 2px;
+  left: 1px;
+  position: absolute;
+}
+.hairlinedots {
+  font-family: 'Kazimir Text Hairline';
+  font-style: normal;
+  letter-spacing: 8.6px;
+  top: 2px;
+  left: 121px;
+  position: absolute;
+}
+.hairlineitalic {
+  font-family: 'Kazimir Text Hairline Italic';
+  font-style: italic;
+  top: 2px;
+  right: 642px;
+  position: absolute;
+}
+.thin {
+  font-family: 'Kazimir Text Thin';
+  font-style: normal;
+  top: 75px;
+  left: 1px;
+  position: absolute;
+}
+.thindots {
+  font-family: 'Kazimir Text Thin';
+  font-style: normal;
+  letter-spacing: 12px;
+  top: 75px;
+  left: 74px;
+  position: absolute;
+}
+.thinitalic {
+  font-family: 'Kazimir Text Thin Italic';
+  font-style: italic;
+  top: 75px;
+  right: 638px;
+  position: absolute;
+}
+.extralight {
+  font-family: 'Kazimir Text ExtraLight';
+  font-style: normal;
+  top: 149px;
+  left: 1px;
+  position: absolute;
+}
+.extralightdots {
+  font-family: 'Kazimir Text ExtraLight';
+  font-style: normal;
+  letter-spacing: 12px;
+  top: 149px;
+  left: 161px;
+  position: absolute;
+}
+.extralightitalic {
+  font-family: 'Kazimir Text ExtraLight Italic';
+  font-style: italic;
+  top: 149px;
+  right: 640px;
+  position: absolute;
+}
+.light {
+  font-family: 'Kazimir Text Light';
+  font-style: normal;
+  top: 221px;
+  left: 1px;
+  position: absolute;
+}
+.lightdots {
+  font-family: 'Kazimir Text Light';
+  font-style: normal;
+  letter-spacing: 12px;
+  top: 221px;
+  left: 83px;
+  position: absolute;
+}
+.lightitalic {
+  font-family: 'Kazimir Text Light Italic';
+  font-style: italic;
+  top: 221px;
+  right: 639px;
+  position: absolute;
+}
+.book {
+  font-family: 'Kazimir Text Book';
+  font-style: normal;
+  top: 293px;
+  left: 1px;
+  position: absolute;
+}
+.bookdots {
+  font-family: 'Kazimir Text Book';
+  font-style: normal;
+  letter-spacing: 12px;
+  top: 293px;
+  left: 83px;
+  position: absolute;
+}
+.bookitalic {
+  font-family: 'Kazimir Text Book Italic';
+  font-style: italic;
+  top: 293px;
+  right: 640px;
+  position: absolute;
+}
+.regular {
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  top: 368px;
+  left: 1px;
+  position: absolute;
+}
+.regulardots {
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  letter-spacing: 12.4px;
+  top: 368px;
+  left: 126px;
+  position: absolute;
+}
+.regularitalic {
+  font-family: 'Kazimir Text Italic';
+  font-style: italic;
+  top: 368px;
+  right: 639px;
+  position: absolute;
+}
+.medium {
+  font-family: 'Kazimir Text Medium';
+  font-style: normal;
+  top: 437px;
+  left: 1px;
+  position: absolute;
+}
+.mediumdots {
+  font-family: 'Kazimir Text Medium';
+  font-style: normal;
+  letter-spacing: 12px;
+  top: 437px;
+  left: 134px;
+  position: absolute;
+}
+.mediumitalic {
+  font-family: 'Kazimir Text Medium Italic';
+  font-style: italic;
+  top: 437px;
+  right: 640px;
+  position: absolute;
+}
+.semibold {
+  font-family: 'Kazimir Text Semibold';
+  font-style: normal;
+  top: 509px;
+  left: 1px;
+  position: absolute;
+}
+.semibolddots {
+  font-family: 'Kazimir Text Semibold';
+  font-style: normal;
+  letter-spacing: 12.3px;
+  top: 509px;
+  left: 162px;
+  position: absolute;
+}
+.semibolditalic {
+  font-family: 'Kazimir Text Semibold Italic';
+  font-style: italic;
+  top: 509px;
+  right: 636px;
+  position: absolute;
+}
+.bold {
+  font-family: 'Kazimir Text Bold';
+  font-style: normal;
+  top: 582px;
+  left: 1px;
+  position: absolute;
+}
+.bolddots {
+  font-family: 'Kazimir Text Bold';
+  font-style: normal;
+  letter-spacing: 12.2px;
+  top: 582px;
+  left: 83px;
+  position: absolute;
+}
+.bolditalic {
+  font-family: 'Kazimir Text Bold Italic';
+  font-style: italic;
+  top: 582px;
+  right: 641px;
+  position: absolute;
+}
+.extrabold {
+  font-family: 'Kazimir Text ExtraBold';
+  font-style: normal;
+  top: 655px;
+  left: 1px;
+  position: absolute;
+}
+.extrabolddots {
+  font-family: 'Kazimir Text ExtraBold';
+  font-style: normal;
+  letter-spacing: 12.2px;
+  top: 655px;
+  left: 183px;
+  position: absolute;
+}
+.extrabolditalic {
+  font-family: 'Kazimir Text ExtraBold Italic';
+  font-style: italic;
+  top: 655px;
+  right: 637px;
+  position: absolute;
+}
+.black {
+  font-family: 'Kazimir Text Black';
+  font-style: normal;
+  top: 728px;
+  left: 1px;
+  position: absolute;
+}
+.blackdots {
+  font-family: 'Kazimir Text Black';
+  font-style: normal;
+  letter-spacing: 12.1px;
+  top: 728px;
+  left: 108px;
+  position: absolute;
+}
+.blackitalic {
+  font-family: 'Kazimir Text Black Italic';
+  font-style: italic;
+  top: 728px;
+  right: 636px;
+  position: absolute;
+}
+.block4text {
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  font-size: 32px;
+  position: absolute;
+  top: 259px;
+  right: 314px;
+  color: white;
+  line-height: 42.98px;
+}
+.block5head2 {
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;  font-size: 80px;
+  position: absolute;
+  top: 62px;
+  right: 463px;
+  color: white;
+  line-height: 74.48px;
+}
+.ligatures {
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  font-size: 50px;
+  position: absolute;
+  top: 431px;
+  left: 343px;
+  color: white;
+  line-height: 108.6px;
+}
+.ff {
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  font-size: 80px;
+  position: absolute;
+  top: 575px;
+  left: 342px;
+  color: white;
+  line-height: 108px;
+}
+.znaki {
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  font-size: 50px;
+  position: absolute;
+  top: 1280px;
+  right: 488px;
+  color: white;
+}
+.variants {
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  font-size: 50px;
+  position: absolute;
+  top: 1661px;
+  left: 312px;
+  color: white;
+  line-height: 70px;
+}
+.zh {
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  font-size: 140px;
+  position: absolute;
+  top: 1863px;
+  left: 309px;
+  color: white;
+}
+.k {
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  font-size: 140px;
+  position: absolute;
+  top: 2117px;
+  left: 336px;
+  color: white;
+}
+.pointzh {
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  font-size: 80px;
+  position: absolute;
+  top: 1886px;
+  left: 499px;
+  color: white;
+}
+.pointk {
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  font-size: 80px;
+  position: absolute;
+  top: 2139px;
+  left: 498px;
+  color: white;
+}
+.supports {
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  font-size: 50px;
+  position: absolute;
+  top: 63px;
+  right: 409px;
+  color: white;
+}
+.lang1 {
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  font-size: 37px;
+  color: white;
+  position: absolute;
+  top: 314px;
+  left: 130px;
+  transform: rotate(356.5deg);
+  display: flex;
+  justify-content: space-between;
+  width: 886px;
+}
+.ukr {
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  font-size: 37px;
+  color: white;
+  position: absolute;
+  top: 276px;
+  right: 135px;
+  transform: rotate(356.5deg);
+}
+.lang2 {
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  font-size: 40px;
+  color: white;
+  position: absolute;
+  top: 502px;
+  left: 176px;
+  transform: rotate(359.1deg);
+  display: flex;
+  justify-content: space-between;
+  width: 648px;
+}
+.az {
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  font-size: 40px;
+  color: white;
+  position: absolute;
+  top: 495px;
+  right: 330px;
+  transform: rotate(359.1deg);
+}
+.portu {
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  font-size: 40px;
+  color: white;
+  position: absolute;
+  top: 490px;
+  right: 93px;
+  transform: rotate(359.1deg);
+}
+.ts1_1 {
+  font-size: 18px;
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  top: 60px;
+  left: -9px;
+  position: absolute;
+  color: black;
+  transform: rotate(-90deg);
+}
+.ts1_2 {
+  font-size: 28px;
+  font-family: 'Kazimir Text Medium';
+  font-style: normal;
+  top: 29px;
+  left: 63px;
+  position: absolute;
+  color: black;
+  line-height: 25px;
+}
+.ts1_3 {
+  font-size: 18px;
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  top: 96px;
+  left: 68px;
+  position: absolute;
+  color: black;
+}
+.ts1_4 {
+  font-size: 18px;
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  top: 60px;
+  left: 180px;
+  position: absolute;
+  color: black;
+  transform: rotate(90deg);
+}
+.ts2_1 {
+  font-size: 18px;
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  top: 60px;
+  left: 231px;
+  position: absolute;
+  color: black;
+  transform: rotate(-90deg);
+}
+.ts2_2 {
+  font-size: 28px;
+  font-family: 'Kazimir Text Medium';
+  font-style: normal;
+  top: 29px;
+  left: 296px;
+  position: absolute;
+  color: black;
+  line-height: 25px;
+}
+.ts2_3 {
+  font-size: 18px;
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  top: 96px;
+  left: 304px;
+  position: absolute;
+  color: black;
+}
+.ts2_4 {
+  font-size: 18px;
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  top: 60px;
+  left: 415px;
+  position: absolute;
+  color: black;
+  transform: rotate(90deg);
+}
+.kassatext {
+  font-size: 36px;
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  top: 48px;
+  left: 150px;
+  position: absolute;
+  color: black;
+}
+.popcorntext {
+  font-size: 25px;
+  font-family: 'Kazimir Text Medium Italic';
+  font-style: italic;
+  top: 242px;
+  left: 150px;
+  position: absolute;
+  color: black;
+}
+.w1 {
+  font-size: 40px;
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  top: 125px;
+  left: 186px;
+  position: absolute;
+  color: black;
+  transform: rotate(6.83deg);
+}
+.w2 {
+  font-size: 40px;
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  top: 226px;
+  left: 115px;
+  position: absolute;
+  color: black;
+  transform: rotate(-20.55deg);
+}
+.w3 {
+  font-size: 40px;
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  top: 406px;
+  left: 182px;
+  position: absolute;
+  color: black;
+  transform: rotate(6.76deg);
+}
+.cinematicket {
+  font-size: 58px;
+  font-family: 'Kazimir Text Medium';
+  font-style: normal;
+  top: 24px;
+  left: 30px;
+  position: absolute;
+  color: black;
+  line-height: 48.2px;
+}
+.theatre {
+  font-size: 10.8px;
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  top: 132px;
+  left: 35px;
+  position: absolute;
+  color: black;
+}
+.row {
+  font-size: 10.8px;
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  top: 132px;
+  left: 102px;
+  position: absolute;
+  color: black;
+}
+.seat {
+  font-size: 10.8px;
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  top: 132px;
+  left: 151px;
+  position: absolute;
+  color: black;
+}
+.theatre03 {
+  font-size: 33px;
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  top: 145px;
+  left: 32px;
+  position: absolute;
+  color: black;
+}
+.row11 {
+  font-size: 33px;
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  top: 145px;
+  left: 102px;
+  position: absolute;
+  color: black;
+}
+.seat82 {
+  font-size: 33px;
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  top: 145px;
+  left: 151px;
+  position: absolute;
+  color: black;
+}
+.date {
+  font-size: 15px;
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  top: 90px;
+  right: 82px;
+  position: absolute;
+  color: black;
+  transform: rotate(-90deg);
+}
+.code {
+  font-size: 14px;
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  top: 91px;
+  right: -10px;
+  position: absolute;
+  color: black;
+  transform: rotate(-90deg);
+}
+.end {
+  font-family: 'Kazimir Text Medium';
+  font-style: normal;
+  font-size: 130px;
+  position: absolute;
+  top: 251px;
+  right: 452px;
+  color: white;
+}
+.row1seats {
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  font-size: 24px;
+  position: absolute;
+  top: 655px;
+  left: 368px;
+  display: flex;
+  justify-content: space-between;
+  width: 1391.37px;
+}
+.row2seats {
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  font-size: 26px;
+  position: absolute;
+  top: 700px;
+  left: 214px;
+  display: flex;
+  justify-content: space-between;
+  width: 1506.37px;
+}
+.row3seats {
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  font-size: 28px;
+  position: absolute;
+  top: 750px;
+  left: 454px;
+  display: flex;
+  justify-content: space-between;
+  width: 1222.37px;
+}
+.davydovich {
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  font-size: 20px;
+  color: black;
+  position: absolute;
+  top: 808px;
+  left: 244px;
+}
+.font {
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  font-size: 20px;
+  color: black;
+  position: absolute;
+  top: 808px;
+  left: 446px;
+}
+.group {
+  font-family: 'Kazimir Text Regular';
+  font-style: normal;
+  font-size: 20px;
+  color: black;
+  position: absolute;
+  top: 808px;
+  left: 645px;
+}

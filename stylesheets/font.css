@@ -1,0 +1,143 @@
+1/* hairline */
+@font-face {
+  src: url('../font/KazimirTextHairline.otf');
+  font-family: 'Kazimir Text Hairline';
+  font-weight: 250px;
+  font-style: normal;
+}
+@font-face {
+  src: url('../font/KazimirTextHairlineItalic.otf');
+  font-family: 'Kazimir Text Hairline Italic';
+  font-weight: 250px;
+  font-style: italic;
+}
+/* thin */
+@font-face {
+  src: url('../font/KazimirTextThin.otf');
+  font-family: 'Kazimir Text Thin';
+  font-weight: 250px;
+  font-style: normal;
+}
+@font-face {
+  src: url('../font/KazimirTextThinItalic.otf');
+  font-family: 'Kazimir Text Thin Italic';
+  font-weight: 250px;
+  font-style: italic;
+}
+/* extralight */
+@font-face {
+  src: url('../font/KazimirTextExtraLight.otf');
+  font-family: 'Kazimir Text ExtraLight';
+  font-weight: 250px;
+  font-style: normal;
+}
+@font-face {
+  src: url('../font/KazimirTextExtraLightItalic.otf');
+  font-family: 'Kazimir Text ExtraLight Italic';
+  font-weight: 250px;
+  font-style: italic;
+}
+/* light */
+@font-face {
+  src: url('../font/KazimirTextLight.otf');
+  font-family: 'Kazimir Text Light';
+  font-weight: 300px;
+  font-style: normal;
+}
+@font-face {
+  src: url('../font/KazimirTextLightItalic.otf');
+  font-family: 'Kazimir Text Light Italic';
+  font-weight: 300px;
+  font-style: italic;
+}
+/* book */
+@font-face {
+  src: url('../font/KazimirTextBook.otf');
+  font-family: 'Kazimir Text Book';
+  font-weight: 400px;
+  font-style: normal;
+}
+@font-face {
+  src: url('../font/KazimirTextBookItalic.otf');
+  font-family: 'Kazimir Text Book Italic';
+  font-weight: 400px;
+  font-style: italic;
+}
+/* regular */
+@font-face {
+  src: url('../font/KazimirTextRegular.otf');
+  font-family: 'Kazimir Text Regular';
+  font-weight: 400px;
+  font-style: normal;
+}
+@font-face {
+  src: url('../font/KazimirTextItalic.otf');
+  font-family: 'Kazimir Text Italic';
+  font-weight: 400px;
+  font-style: italic;
+}
+/* medium */
+@font-face {
+  src: url('../font/KazimirTextMedium.otf');
+  font-family: 'Kazimir Text Medium';
+  font-weight: 500px;
+  font-style: normal;
+}
+@font-face {
+  src: url('../font/KazimirTextMediumItalic.otf');
+  font-family: 'Kazimir Text Medium Italic';
+  font-weight: 500px;
+  font-style: italic;
+}
+/* semibold */
+@font-face {
+  src: url('../font/KazimirTextSemibold.otf');
+  font-family: 'Kazimir Text Semibold';
+  font-weight: 600px;
+  font-style: normal;
+}
+@font-face {
+  src: url('../font/KazimirTextSemiboldItalic.otf');
+  font-family: 'Kazimir Text Semibold Italic';
+  font-weight: 600px;
+  font-style: italic;
+}
+/* bold */
+@font-face {
+  src: url('../font/KazimirTextBold.otf');
+  font-family: 'Kazimir Text Bold';
+  font-weight: 700px;
+  font-style: normal;
+}
+@font-face {
+  src: url('../font/KazimirTextBoldItalic.otf');
+  font-family: 'Kazimir Text Bold Italic';
+  font-weight: 700px;
+  font-style: italic;
+}
+/* extrabold */
+@font-face {
+  src: url('../font/KazimirTextExtraBold.otf');
+  font-family: 'Kazimir Text ExtraBold';
+  font-weight: 800px;
+  font-style: normal;
+}
+@font-face {
+  src: url('../font/KazimirTextExtraBoldItalic.otf');
+  font-family: 'Kazimir Text ExtraBold Italic';
+  font-weight: 800px;
+  font-style: italic;
+}
+/* black */
+@font-face {
+  src: url('../font/KazimirTextBlack.otf');
+  font-family: 'Kazimir Text Black';
+  font-weight: 900px;
+  font-style: normal;
+}
+@font-face {
+  src: url('../font/KazimirTextBlackItalic.otf');
+  font-family: 'Kazimir Text Black Italic';
+  font-weight: 900px;
+  font-style: italic;
+}
