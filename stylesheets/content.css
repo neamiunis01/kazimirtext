@@ -32,7 +32,7 @@
   font-size: 50px;
   position: absolute;
   top: 229px;
-  left: 352px;
+  left: 351px;
   color: white;
   line-height: 52px;
 }
@@ -53,7 +53,7 @@
 .hairlinedots {
   font-family: 'Kazimir Text Hairline';
   font-style: normal;
-  letter-spacing: 8.6px;
+  letter-spacing: 12px;
   top: 2px;
   left: 121px;
   position: absolute;
@@ -694,7 +694,7 @@
   left: 454px;
   display: flex;
   justify-content: space-between;
-  width: 1222.37px;
+  width: 1221.37px;
 }
 .davydovich {
   font-family: 'Kazimir Text Regular';
